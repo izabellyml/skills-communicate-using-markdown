@@ -3,4 +3,4 @@
 
 Textinho de teste de Markdown
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
